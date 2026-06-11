@@ -13,3 +13,4 @@ Technologies Used
 HTML5
 CSS3
 Font Awesome
+It was great building this and got experience how to actually make websites
